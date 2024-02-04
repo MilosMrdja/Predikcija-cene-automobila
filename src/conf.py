@@ -1,0 +1,6 @@
+FILE_PATH_TRAIN = "data/train.csv"
+FILE_PATH_TEST = "data/test.csv"
+FILE_JSON = "data/hiperparametri.json"
+FILE_PATH_FROM_SRC_TRAIN = "../data/train.csv"
+FILE_PATH_FROM_SRC_TEST = "../data/test.csv"
+FILE_JSON_FROM_SRC = "../data/hiperparametri.json"

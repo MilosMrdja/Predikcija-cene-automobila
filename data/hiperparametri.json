@@ -1,0 +1,23 @@
+{
+    "hiperp": [
+        {
+            "n_tree": 100,
+            "n_neighbors": 3,
+            "max_depth_dt" : 3
+        },
+        {
+            "n_tree": 500,
+            "n_neighbors": 5,
+            "max_depth_dt" : 10
+        },
+        {
+            "n_tree": 1000,
+            "n_neighbors": 7,
+            "max_depth_dt" : 20
+        },{
+            "n_tree":50,
+            "n_neighbors":10,
+            "max_depth_dt" : 40
+        }
+    ]
+}
